@@ -1,1 +1,1 @@
-# Certificate link: https://near.academy/certificate/etasdemir
+Certificate link: https://near.academy/certificate/etasdemir
